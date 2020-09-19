@@ -1,2 +1,3 @@
 # hello-world
-Learning repo
+
+I like python. I also like solving problems!
